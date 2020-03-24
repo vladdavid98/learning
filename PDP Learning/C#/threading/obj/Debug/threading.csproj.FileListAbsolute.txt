@@ -1,0 +1,12 @@
+C:\Users\Vlad\source\repos\PDP Learning\threading\bin\Debug\threading.exe.config
+C:\Users\Vlad\source\repos\PDP Learning\threading\bin\Debug\threading.exe
+C:\Users\Vlad\source\repos\PDP Learning\threading\bin\Debug\threading.pdb
+C:\Users\Vlad\source\repos\PDP Learning\threading\obj\Debug\threading.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\PDP Learning\threading\obj\Debug\threading.exe
+C:\Users\Vlad\source\repos\PDP Learning\threading\obj\Debug\threading.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\bin\Debug\threading.exe.config
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\bin\Debug\threading.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\bin\Debug\threading.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\obj\Debug\threading.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\obj\Debug\threading.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\obj\Debug\threading.pdb

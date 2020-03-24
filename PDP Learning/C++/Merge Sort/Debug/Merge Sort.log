@@ -1,0 +1,7 @@
+﻿  Merge Sort.cpp
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Merge Sort\Merge Sort.cpp(13,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Merge Sort\Merge Sort.cpp(13,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Merge Sort\Merge Sort.cpp(22,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Merge Sort\Merge Sort.cpp(26,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Merge Sort\Merge Sort.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+  Merge Sort.vcxproj -> C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Debug\Merge Sort.exe

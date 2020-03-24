@@ -1,0 +1,6 @@
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\bin\Release\threading.exe.config
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\bin\Release\threading.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\bin\Release\threading.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\obj\Release\Partial Sums with threading.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\obj\Release\threading.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\threading\obj\Release\threading.pdb

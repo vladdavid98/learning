@@ -1,0 +1,6 @@
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Parallel Mergesort\bin\Debug\Parallel Mergesort.exe.config
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Parallel Mergesort\bin\Debug\Parallel Mergesort.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Parallel Mergesort\bin\Debug\Parallel Mergesort.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Parallel Mergesort\obj\Debug\Parallel Mergesort.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Parallel Mergesort\obj\Debug\Parallel Mergesort.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Parallel Mergesort\obj\Debug\Parallel Mergesort.pdb

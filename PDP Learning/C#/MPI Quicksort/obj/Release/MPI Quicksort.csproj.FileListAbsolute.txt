@@ -1,0 +1,6 @@
+C:\Users\Vlad\Desktop\Learning\PDP Learning\MPI Quicksort\bin\Release\MPI Quicksort.exe.config
+C:\Users\Vlad\Desktop\Learning\PDP Learning\MPI Quicksort\bin\Release\MPI Quicksort.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\MPI Quicksort\bin\Release\MPI Quicksort.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\MPI Quicksort\obj\Release\MPI Quicksort.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\MPI Quicksort\obj\Release\MPI Quicksort.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\MPI Quicksort\obj\Release\MPI Quicksort.csprojAssemblyReference.cache

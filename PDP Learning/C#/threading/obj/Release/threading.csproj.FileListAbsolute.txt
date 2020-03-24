@@ -1,0 +1,5 @@
+C:\Users\Vlad\source\repos\PDP Learning\threading\bin\Release\threading.exe.config
+C:\Users\Vlad\source\repos\PDP Learning\threading\bin\Release\threading.exe
+C:\Users\Vlad\source\repos\PDP Learning\threading\bin\Release\threading.pdb
+C:\Users\Vlad\source\repos\PDP Learning\threading\obj\Release\threading.exe
+C:\Users\Vlad\source\repos\PDP Learning\threading\obj\Release\threading.pdb

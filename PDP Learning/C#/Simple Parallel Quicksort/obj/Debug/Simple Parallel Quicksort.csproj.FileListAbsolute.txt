@@ -1,0 +1,6 @@
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Simple Parallel Quicksort\bin\Debug\Simple Parallel Quicksort.exe.config
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Simple Parallel Quicksort\bin\Debug\Simple Parallel Quicksort.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Simple Parallel Quicksort\bin\Debug\Simple Parallel Quicksort.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Simple Parallel Quicksort\obj\Debug\Simple Parallel Quicksort.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Simple Parallel Quicksort\obj\Debug\Simple Parallel Quicksort.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Simple Parallel Quicksort\obj\Debug\Simple Parallel Quicksort.csprojAssemblyReference.cache

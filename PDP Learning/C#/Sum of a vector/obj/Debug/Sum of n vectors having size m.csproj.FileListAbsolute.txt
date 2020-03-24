@@ -1,0 +1,6 @@
+C:\Users\Vlad\Desktop\Learning\PDP Learning\Sum of a vector\bin\Debug\Sum of a vector.exe.config
+C:\Users\Vlad\Desktop\Learning\PDP Learning\Sum of a vector\bin\Debug\Sum of a vector.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\Sum of a vector\bin\Debug\Sum of a vector.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\Sum of a vector\obj\Debug\Sum of n vectors having size m.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Learning\PDP Learning\Sum of a vector\obj\Debug\Sum of a vector.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\Sum of a vector\obj\Debug\Sum of a vector.pdb

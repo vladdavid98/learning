@@ -1,0 +1,6 @@
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Permutations of N\bin\Debug\Permutations of N.exe.config
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Permutations of N\bin\Debug\Permutations of N.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Permutations of N\bin\Debug\Permutations of N.pdb
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Permutations of N\obj\Debug\Permutations of N.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Permutations of N\obj\Debug\Permutations of N.exe
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C#\Permutations of N\obj\Debug\Permutations of N.pdb

@@ -1,0 +1,5 @@
+﻿  N Queens.cpp
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\N Queens\N Queens.cpp(11,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\N Queens\N Queens.cpp(15,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\N Queens\N Queens.cpp(17,21): warning C4018: '<': signed/unsigned mismatch
+  N Queens.vcxproj -> C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Debug\N Queens.exe

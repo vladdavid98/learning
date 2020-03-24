@@ -1,0 +1,5 @@
+﻿  Polynom Multiplication.cpp
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Polynom Multiplication\Polynom Multiplication.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Polynom Multiplication\Polynom Multiplication.cpp(31,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Polynom Multiplication\Polynom Multiplication.cpp(42,23): warning C4018: '<': signed/unsigned mismatch
+  Polynom Multiplication.vcxproj -> C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Debug\Polynom Multiplication.exe

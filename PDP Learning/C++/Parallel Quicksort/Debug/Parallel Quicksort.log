@@ -1,0 +1,4 @@
+﻿  Parallel Quicksort.cpp
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Parallel Quicksort\Parallel Quicksort.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Parallel Quicksort\Parallel Quicksort.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+  Parallel Quicksort.vcxproj -> C:\Users\Vlad\Desktop\Learning\PDP Learning\C++\Debug\Parallel Quicksort.exe
